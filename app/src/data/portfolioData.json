@@ -1,0 +1,105 @@
+{
+  "language": {
+    "pt-br": {
+      "header": {
+        "navigation": {
+          "home": "Início",
+          "about": "Sobre",
+          "skills": "Habilidades",
+          "experience": "Experiência",
+          "projects": "Projetos"
+        },
+        "actions": {
+          "contact": {
+            "label": "Entre em contato",
+            "href": "mailto:rafaelaqueirozdev@gmail.com"
+          }
+        }
+      },
+      "hero": {
+        "title": "Olá, eu sou",
+        "name": "Rafaela Queiroz",
+        "subtitle": "Desenvolvedor Front-end",
+        "description": "Desenvolvedor Front-end com experiência em desenvolvimento de aplicações web e mobile. Atualmente, estou focada em desenvolvimento de aplicações web utilizando ReactJS e NextJS.",
+        "button": "Entre em contato"
+      },
+      "about": {
+        "title": "Sobre mim",
+        "description": "Desenvolvedora Front-end com experiência em desenvolvimento de aplicações web e mobile. Atualmente, estou focada em desenvolvimento de aplicações web utilizando ReactJS e NextJS."
+      },
+      "skills": {
+        "title": "Habilidades",
+        "description": "Aqui estão algumas das tecnologias com as quais trabalho atualmente.",
+        "hard-skills": {
+          "title": "Hard Skills",
+          "list": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "ReactJS",
+            "NextJS",
+            "TypeScript",
+            "Styled Components",
+            "Git"
+          ]
+        }
+      },
+      "experience": {
+        "title": "Experiência",
+        "description": "Aqui estão algumas das empresas com as quais trabalhei.",
+        "list": [
+          {
+            "company": "Company 1",
+            "position": "Front-end Developer",
+            "period": "2020 - Atualmente",
+            "description": "Desenvolvimento de aplicações web e mobile utilizando ReactJS e NextJS."
+          },
+          {
+            "company": "Company 2",
+            "position": "Front-end Developer",
+            "period": "2018 - 2020",
+            "description": "Desenvolvimento de aplicações web e mobile utilizando ReactJS e NextJS."
+          }
+        ]
+      },
+      "projects": {
+        "title": "Projetos",
+        "description": "Aqui estão alguns dos projetos que desenvolvi.",
+        "list": [
+          {
+            "name": "Project 1",
+            "description": "Descrição do projeto 1.",
+            "technologies": ["ReactJS", "NextJS", "Styled Components"],
+            "link": ""
+          },
+          {
+            "name": "Project 2",
+            "description": "Descrição do projeto 2.",
+            "technologies": ["ReactJS", "NextJS", "Styled Components"],
+            "link": ""
+          }
+        ]
+      },
+      "social": {
+        "title": "Redes sociais",
+        "description": "Aqui estão algumas das minhas redes sociais.",
+        "list": [
+          {
+            "name": "GitHub",
+            "link": ""
+          },
+          {
+            "name": "LinkedIn",
+            "link": ""
+          }
+        ]
+      },
+      "footer": {
+        "copy": "Todos os direitos reservados."
+      }
+    },
+    "en": {
+
+    }
+  }
+}
